@@ -1,5 +1,0 @@
-[mysqld]
-server-id=2
-relay-log=mysql-relay-bin
-log-bin=mysql-bin
-read_only=1
